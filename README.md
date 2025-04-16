@@ -5,3 +5,4 @@
 4. use git clone and open it in vs code.
 
 ### Detailed information are provided in the following blog
+https://medium.com/@devopswithyoge/fastapi-meets-azure-function-apps-go-efficient-scalable-ease-of-use-c3afda579777
